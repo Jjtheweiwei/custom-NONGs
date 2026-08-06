@@ -1,0 +1,24 @@
+{
+  "manifest": 1,
+  "name": "SG NDP NONGs",
+  "id": "NDP-index",
+  "description": "SG NDP songs",
+  "lastUpdate": 1700000000,
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["hosted"]
+    }
+  },
+  "nongs": {
+    "hosted": {
+      "a13e2b7b-e731-4bcc-9692-3062157cb9bd": {
+        "name": "Blowitch - The moonlight from Afar",
+        "artist": "blowitch",
+        "startOffset": 0,
+        "url": "https://github.com/Jjtheweiwei/custom-NONGs/raw/refs/heads/main/Star's%20Incredible%20Towers/Blowitch_-_The_Moonlight_From_Afar.mp3",
+        "songs": [857473]
+      }
+    },
+    "youtube": {}
+  }
+}
